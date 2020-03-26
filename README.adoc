@@ -1,0 +1,7 @@
+= Clojure playground
+
+Some simple project in order to practice Clojure and stream it during Covid-19 lockdown
+
+== Directories
+
+. link:REPL/README.adoc[REPL]: simple project to practice the REPL and especially changing and requiring namespaces.

@@ -1,0 +1,19 @@
+= REPL playground
+
+Simple codebase to practice the Clojure REPL
+
+== Launching the REPL
+
+.Using leiningen
+----
+lein repl
+----
+
+.Using clj command line
+----
+clj
+----
+
+== Documentation
+
+A basic guide for using the REPL is available on the official Clojure website https://clojure.org/guides/repl/introduction
